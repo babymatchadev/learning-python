@@ -16,3 +16,10 @@ animes = ['bleach', 'naruto', 'fairy tail', 'gintama', 'boku no hero', 'black cl
 randomly_choosen_anime = choice(animes)
 
 print(f'You should watch {randomly_choosen_anime.upper()}')
+
+#input mood
+print('what mood are you in?')
+mood = input(randomly_choosen_anime)
+
+
+    

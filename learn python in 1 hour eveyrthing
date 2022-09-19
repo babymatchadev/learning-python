@@ -1,0 +1,81 @@
+age = 20
+# print("Is he a new patient?")
+new_patient = "YES"
+# print(new_patient)
+first_name = "John Smith"
+# print(age)
+# print(first_name)
+
+# name = input("What is your name? ")
+# # print("Hello " + name)
+
+# birth_year = input("Enter your birth year: ")
+# age = 2022 - int(birth_year)
+# print(age)
+
+float()
+bool()
+str()
+
+# first = float(input("First: "))
+# second = float(input("Second: "))
+# sum = first + second
+# print("Sum: " + str(sum))
+
+course = 'Python for Beginners'
+# print(course.find('y'))
+# print(course)
+
+
+# price = 5
+# print(not price > 10)
+
+# and (both)
+# or (at least one)
+# not
+
+# temperature = 15
+# if temperature > 30:
+#     print("It is a hot day")
+#     print("Drink plenty of water")
+# elif temperature > 20: # (20, 30])
+#     print("It is a nice day")
+# elif temperature > 10:
+#     print("It is a bit cold")
+# else:
+#     print("It is cold")
+# print("Done")
+
+# weight = int(input("Weight: "))
+# unit = input("(k)g or (L)bs: ")
+# if unit.upper() == "K":
+#     converted  = weight / 0.45
+#     print("Weight in Lbs: " + str(converted))
+# else: 
+#     converted = weight * 0.45
+#     print("weight in Kgs: " + str(converted))
+
+# i = 1
+# while i <= 10:
+#     print(i * '*')
+#     i = i + 1
+
+# names = ["John", "Bob", "Mosh", "Harry"]
+# names[0] = "Jon"
+# print(names[0:3])
+
+# numbers = [1,2,3,4,5]
+# print(len(numbers))
+
+# numbers = [1,2,3,4,5]
+# for item in numbers:
+#     print(item)
+
+# i = 0
+# while i < len(numbers):
+#     print(numbers[i])
+#     i = i +1 
+
+# numbers = range(5, 10, 2)
+# for number in numbers:
+#     print(number)
